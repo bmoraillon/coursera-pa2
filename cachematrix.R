@@ -1,14 +1,12 @@
-## Put comments here that give an overall description of what your
-## functions do
 
-## Write a short comment describing this function
+
 #
 # using makeCacheVector sample we try to
 # 1.  set the value of the matrix
 # 2.  get the value of the matrix
 # 3.  set the value of the inverse
 # 4.  get the value of the inverse
-
+# manage a cache list
 #
 makeCacheMatrix <- function(x = matrix()) {
   
